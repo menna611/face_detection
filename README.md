@@ -1,3 +1,22 @@
 # Face Detection with OpenCV
 
-This project uses OpenCV to detect faces in real time from a webcam and draw bounding boxes around them.
+## Project Overview
+This project demonstrates real-time face detection using **OpenCV** and the **Haar Cascade Classifier**.  
+It uses your device's camera to detect faces and highlight them with bounding boxes in a live video feed.
+
+## Features
+- Real-time face detection via webcam.
+- Uses OpenCV's pre-trained Haar Cascade model.
+- Draws rectangles around detected faces.
+- Lightweight and easy to set up.
+
+## How It Works
+1. OpenCV captures frames from your webcam.
+2. The Haar Cascade Classifier scans each frame to detect faces.
+3. Detected faces are highlighted with bounding boxes.
+
+## Requirements
+- Python   
+- opencv-python  
+- numpy  
+
