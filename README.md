@@ -19,4 +19,7 @@ It uses your device's camera to detect faces and highlight them with bounding bo
 - Python   
 - opencv-python  
 - numpy  
+## 📸 Example Output
+**Single Face Detection:**  
+![Single Face Detection](images/example1.png)
 
